@@ -24,4 +24,4 @@ This is an early release! Please feel free to reach out if you have feedback :)
 - Choice of left or right hand
 
 ## About
-My 3rd mod :3 If you enjoy this, I appreciate your feedback :)
+My 3rd mod :3 If you enjoy this, I appreciate your feedback :) I am new to modding, so no code for this released yet... I'm kinda shy because this is so early in development.
