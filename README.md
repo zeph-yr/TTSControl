@@ -16,7 +16,7 @@ This is an early release! Please feel free to reach out if you have feedback :)
 - Start your browser TTS
 - In Map: Pull RIGHT trigger to mute. Pull LEFT trigger to unmute
 - In Lobby: Button displays current state of TTS. Click to change it.
-- Requires: BSIPA, BSML, BS_Utils, SiraUtil. Only for Windows (sorry linux peeps :()
+- Requires: BSIPA, BSML, BS_Utils, SiraUtil. Only for Windows (sorry linux peeps)
 - **Note for Introskip:** I understand this has implications for Introskip during the skip periods. Skipping will trigger mute/ummute so please skip with the L or R trigger accordingly. Or use the lobby button if you want to mute/unmute before going into a map :)
 
 ## Coming Soon
