@@ -2,7 +2,7 @@
 
 ### _"You ain't heard yet? You not get the message?"_ Now they will.
 
-Every asked your lovely viewers to kindly give you a moment during a high pp play but a few special ones just don't seem to get it or don't want to respect you? Worry no more, you can have silence with the click of a button!
+Ever asked your lovely viewers to kindly give you a moment during a high pp play but a few special ones just don't seem to get it or don't want to respect you? Worry no more, you can have silence with the click of a button!
 
 For those using browser based TTS. Toggles the volume on Chrome On/Off with controller trigger in map and via UI button in main lobby. Designed to be easier to mute than to unmute to minimize accidently unmuting when you really need a moment to yourself.
 
