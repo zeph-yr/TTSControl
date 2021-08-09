@@ -21,7 +21,7 @@ This is an early release! Please feel free to reach out if you have feedback :)
 
 ## Coming Soon
 - Support for browser of your choice
-- Choice of left or right hand
+- Choice of left or right hand for mute/unmute
 
 ## About
 My 3rd mod :3 If you enjoy this, I appreciate your feedback :) I am new to modding, so no code for this released yet... I'm kinda shy because this is so early in development.
