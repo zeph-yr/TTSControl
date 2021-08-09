@@ -11,7 +11,7 @@ This is an early release! Please feel free to reach out if you have feedback :)
 ![screenshot](https://github.com/zeph-yr/TTSControl/blob/main/ttscontrol_menu_small.png)
 
 ## How To Use
-- Requires a freeware tool SoundVolumeView. Get it here https://www.nirsoft.net/utils/soundvolumeview.zip and put the .exe in your /Beat Saber directory
+- Requires a freeware tool SoundVolumeView (not written by me). Get it here https://www.nirsoft.net/utils/soundvolumeview.zip and put the .exe in your /Beat Saber directory
 - Place TTSControl.dll in your Plugins directory
 - Start your browser TTS
 - In Map: Pull RIGHT trigger to mute. Pull LEFT trigger to unmute
