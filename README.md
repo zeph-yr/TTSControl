@@ -17,7 +17,7 @@ This is an early release! Please feel free to reach out if you have feedback :)
 - In Map: Pull RIGHT trigger to mute. Pull LEFT trigger to unmute
 - In Lobby: Button displays current state of TTS. Click to change it.
 - Requires: BSIPA, BSML, BS_Utils, SiraUtil. Only for Windows (sorry linux peeps :()
-- **Note for Introskip:** I understand this has implications for Introskip during the skip periods. Skipping will trigger mute/ummute so please skip with the L or R trigger accordingly. Or use the Menu toggle if you want to mute/unmute before going into a map :)
+- **Note for Introskip:** I understand this has implications for Introskip during the skip periods. Skipping will trigger mute/ummute so please skip with the L or R trigger accordingly. Or use the lobby button if you want to mute/unmute before going into a map :)
 
 ## Coming Soon
 - Support for browser of your choice
@@ -25,3 +25,5 @@ This is an early release! Please feel free to reach out if you have feedback :)
 
 ## About
 My 3rd mod, written from scratch :3 If you enjoy this, I appreciate your feedback :) I am still new to modding, code will be released later... a bit shy to publish so early in development.
+
+And yes, the lobby button is slightly out of place.. because when it's in the right place, its hitbox gets occluded by the game menu KEKW.
