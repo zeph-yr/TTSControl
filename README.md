@@ -24,8 +24,9 @@ This is an early release! Please feel free to reach out if you have feedback :)
 ## Coming Soon / Notes
 - Done: Support for browser of your choice
 - Not likely to bring back using the triggers. Probably hard to avoid accidental clicks for most players.
+- Only tested on Oculus Touch 2 controllers playing in Steamvr mode. No guarantees for other VR setups.
 
 ## About
-My 3rd mod, written from scratch :3 If you enjoy this, I appreciate your feedback :) I am still new to modding, code will be released later... a bit shy to publish so early in development.
+My 3rd mod, written from scratch and mostly for myself. If you enjoy this, I appreciate your feedback :)
 
 And yes, the lobby button appears slightly "out of place"... because if it's lined up with the game menu, its hitbox gets occluded KEKW.
