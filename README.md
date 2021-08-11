@@ -16,15 +16,17 @@ This is an early release! Please feel free to reach out if you have feedback :)
 - Run the game to generate config file. Type in the name of your browser's executable (e.g "chrome.exe" or "msedge.exe", etc) and save
 - Start your browser TTS. If your browser's mute state doesnt match the button because you muted it before entering BS, click the lobby button twice.
 - In Map: Press RIGHT primary button (B on Touch2) to mute. Press LEFT primary button (Y on Touch2) to unmute
-- ~~In Map: Pull RIGHT trigger to mute. Pull LEFT trigger to unmute. You can use the Pause menu buttons unaffected :)~~
 - In Lobby: Button displays current state of TTS. Click to change it
+- To swap left/right behavior, edit value in json to "true"
 - Requires: BSIPA, BSML, BS_Utils, SiraUtil. Only for Windows (sorry linux peeps)
+- ~~In Map: Pull RIGHT trigger to mute. Pull LEFT trigger to unmute. You can use the Pause menu buttons unaffected :)~~
 - ~~**Note for Introskip:** I understand this has implications for Introskip during the skip periods. Skipping will trigger mute/ummute so please skip with the L or R trigger accordingly. Or use the lobby button if you want to mute/unmute before going into a map :)~~
 
 ## Coming Soon / Notes
 - Done: Support for browser of your choice
+- Done: Support for swapping left/right
 - Not likely to bring back using the triggers. Probably hard to avoid accidental clicks for most players.
-- Only tested on Oculus Touch 2 controllers playing in Steamvr mode. No guarantees for other VR setups.
+- Only tested on Oculus Touch 2 controllers with RiftS playing in Steamvr mode. Not guaranteed for other VR setups.
 
 ## About
 My 3rd mod, written from scratch and mostly for myself. If you enjoy this, I appreciate your feedback :)
