@@ -4,7 +4,7 @@
 
 Ever asked your lovely viewers to kindly give you a moment during a high pp play but a few special ones just don't seem to get it or don't want to respect you? Worry no more, you can have silence with the click of a button! Your viewers can continue the discussion amongst themselves and you get hear your own thoughts ^^
 
-For those using browser based TTS. Toggles the volume on Chrome On/Off with controller buttons in map and via UI button in main lobby. Designed to be easier to mute than to unmute to minimize accidently unmuting when you really need a moment to yourself.
+For those using browser based TTS. Toggles the volume on your browser On/Off with controller buttons in map and via UI button in main lobby. Designed to be easier to mute than to unmute to minimize accidently unmuting when you really need a moment to yourself.
 
 This is an early release! Please feel free to reach out if you have feedback :)
 
@@ -26,7 +26,7 @@ This is an early release! Please feel free to reach out if you have feedback :)
 - Done: Support for browser of your choice
 - Done: Support for swapping left/right
 - Not likely to bring back using the triggers. Probably hard to avoid accidental clicks for most players.
-- Only tested on Oculus Touch 2 controllers with RiftS playing in Steamvr mode. Not guaranteed for other VR setups.
+- **Tested on Oculus Touch 2 controllers with Rift S playing in Steamvr mode.** If you are using other VR setups, let me know how it's been working for you :)
 
 ## About
 My 3rd mod, written from scratch and mostly for myself. If you enjoy this, I appreciate your feedback :)
